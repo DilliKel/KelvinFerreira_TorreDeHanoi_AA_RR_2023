@@ -1,0 +1,7 @@
+Hanoi(n, Origem, Destino, Auxiliar){
+          se n > 0{
+           Hanoi(n-1,Origem,Auxiliar,Destino)
+           move o disco da Origem para o Destino
+           Hanoi(n-1, Auxiliar,Destino, Origem)
+      }
+}
