@@ -13,7 +13,7 @@ Neste repositório, você encontrará os seguintes arquivos e pastas:
 ## Outras informações
 
 - **Professor**: [Herbert Oliveira Rocha](https://github.com/hbgit);
-- **Notion**: [Notion - Torre de Hanoi](https://dillikel.notion.site/dillikel/Semin-rio-Torre-de-Han-i-An-lise-de-Algoritmos-04bda69bc2e34fb590cb28f6946274fb).
+- **Notion**: [Notion - Torre de Hanoi - Kelvin Ferreira](https://dillikel.notion.site/dillikel/Semin-rio-Torre-de-Han-i-An-lise-de-Algoritmos-04bda69bc2e34fb590cb28f6946274fb).
 
 ## Links úteis
 
